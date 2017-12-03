@@ -1,1 +1,1 @@
-class D{}
+class A{}
